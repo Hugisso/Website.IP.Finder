@@ -16,3 +16,16 @@ A simple but useful Command-Line Interface (CLI) tool written in Python.
 2. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
+```
+## Usage
+You can run the tool in two ways:
+
+Option 1: Using the Batch file (Windows)
+Simply double-click the Website.IP.Finder.bat file.
+
+Option 2: Using the terminal
+Open your terminal in the project folder and run:
+
+```bash
+python Website.IP.Finder.py
+```
