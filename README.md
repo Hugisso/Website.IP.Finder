@@ -29,3 +29,5 @@ Open your terminal in the project folder and run:
 ```bash
 python Website.IP.Finder.py
 ```
+## Screenshot
+<img width="1477" height="706" alt="Screenshot 2026-10-24 184755" src="https://github.com/user-attachments/assets/a54daf5e-f794-410f-ad43-1191aa54bb26" />
